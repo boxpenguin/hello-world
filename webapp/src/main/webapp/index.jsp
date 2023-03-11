@@ -3,6 +3,7 @@
     <br>
     <p>I made a change via github! This is a different change!</p>
     <p>Are you ready for docker?</p>
+    <p>Here is another change!</p>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
